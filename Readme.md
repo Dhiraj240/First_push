@@ -1,3 +1,1 @@
-foo bar bizz bang
-First Repo using Git bash Windows Terminal
-First Repo using Git bash Windows Terminal
+##Added a readme.md repositry using gitbash cli tool.
