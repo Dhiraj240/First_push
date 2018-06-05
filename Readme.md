@@ -1,3 +1,3 @@
-Added Readme.md using Gitbash cli tool
+# Added Readme.md using Gitbash cli tool
 
-A good way to make things easier.
+**A good way to make things easier** 
